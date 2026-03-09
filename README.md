@@ -25,21 +25,27 @@
 
 ---
 
-# 🚀 Languages and Tools
+## 🚀 Languages and Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,react,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,bootstrap,mysql,git,github,vscode" />
 </p>
+
+### 🧠 Knowledge Areas
+- 💻 Programming: **C, C++, Java, JavaScript**
+- 🌐 Web Development: **HTML, CSS, Bootstrap**
+- 🗄 Database: **DBMS, SQL**
+- 🧠 Core CS: **Data Structures & Algorithms**
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lakshyasingh-1&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=lakshyasingh-1&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshyasingh-1&theme=tokyonight" />
 
 </p>
 
