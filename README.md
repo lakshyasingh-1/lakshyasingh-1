@@ -63,9 +63,7 @@ If you like my projects and want to support me, you can donate using UPI.
 
 <p align="center">
 
-<a href="upi://pay?pa=9005014089@ybl&pn=Lakshya%20Pratap%20Singh&cu=INR">
-<img src="https://img.shields.io/badge/Donate-UPI-orange?style=for-the-badge&logo=googlepay&logoColor=white"/>
-</a>
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=upi://pay?pa=9005014089@ybl&pn=Lakshya%20Pratap%20Singh&cu=INR" />
 
 </p>
 
