@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋 I'm Lakshya Pratap Singh
 
-<!--
-**lakshyasingh-1/lakshyasingh-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer  
+🎓 Student  
+🚀 Learning C, C++, JavaScript  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- React
+- Data Structures
+- Web Development
+
+---
+
+## 🛠 Languages and Tools
+![C](https://img.shields.io/badge/C-blue)
+![C++](https://img.shields.io/badge/C++-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME)
+
+---
+
+## 📫 Connect With Me
+- LinkedIn
+- Instagram
