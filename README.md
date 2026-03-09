@@ -46,12 +46,20 @@
 
 # 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshyasingh-1&theme=tokyo-night"/>
 
 ---
 
-# 📫 Connect With Me
+## 🌐 Connect With Me
 
-- Instagram
-- LinkedIn
-- Portfolio
+<p align="center">
+
+<a href="https://www.linkedin.com/in/lakshya-pratap-singh-889a76208">
+<img src="https://img.shields.io/badge/LinkedIn-Lakshya%20Pratap%20Singh-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/lakshy_asingh/">
+<img src="https://img.shields.io/badge/Instagram-lakshy_asingh-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
