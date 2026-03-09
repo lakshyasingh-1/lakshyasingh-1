@@ -2,25 +2,26 @@
 <h3 align="center">Frontend Developer | C++ | Web Development</h3>
 
 <p align="center">
-<a href="https://github.com/YOURUSERNAME">
+<a href="https://github.com/lakshyasingh-1">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://linkedin.com/">
+<a href="www.linkedin.com/in/lakshya-pratap-singh-889a76208">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="https://twitter.com/">
-<img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x">
-</a>
-</p>
+
 
 ---
 
-# 💫 About Me
-- 🌱 Currently learning **React & Data Structures**
-- 💻 Love building **Web Projects**
-- 🚀 Goal: Become **Full Stack Developer**
+## 👨‍💻 About Me
+
+- 🎓 I am a **B.Tech student** currently studying **Computer Science Engineering (CSE)**.  
+- 💻 I have learned **C, C++, Java, JavaScript, HTML, CSS, Bootstrap, DBMS, SQL, and Algorithms**.  
+- 🚀 I am continuously working to **improve my programming and development skills**.  
+- 🌱 Currently focusing on **learning more about web development and backend technologies**.  
+- 🎯 My goal is to become a **Full Stack Developer**.  
+- 📚 Always curious to **learn new technologies and build real-world projects**.
 
 ---
 
@@ -36,7 +37,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=lakshyasingh-1&show_icons=true&theme=tokyonight"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight"/>
 
