@@ -42,8 +42,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshyasingh-1&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshyasingh-1&theme=tokyonight" />
+  
+<img src="https://github-readme-stats.vercel.app/api?username=lakshyasingh-1&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+
+<img src="https://streak-stats.demolab.com?user=lakshyasingh-1&theme=tokyonight" />
+
 </p>
 
 ---
