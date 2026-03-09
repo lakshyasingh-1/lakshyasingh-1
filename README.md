@@ -43,9 +43,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lakshyasingh-1&show_icons=true&theme=tokyonight" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=lakshyasingh-1&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshyasingh-1&theme=tokyonight" />
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshyasingh-1&theme=tokyonight&hide_border=true"/>
 
 </p>
 
