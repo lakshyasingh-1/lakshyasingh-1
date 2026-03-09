@@ -1,32 +1,57 @@
-# Hi 👋 I'm Lakshya Pratap Singh
+<h1 align="center">Hi 👋 I'm Lakshya Pratap Singh</h1>
+<h3 align="center">Frontend Developer | C++ | Web Development</h3>
 
-💻 Frontend Developer  
-🎓 Student  
-🚀 Learning C, C++, JavaScript  
+<p align="center">
+<a href="https://github.com/YOURUSERNAME">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+</a>
 
----
+<a href="https://linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
 
-## 🌱 Currently Learning
-- React
-- Data Structures
-- Web Development
-
----
-
-## 🛠 Languages and Tools
-![C](https://img.shields.io/badge/C-blue)
-![C++](https://img.shields.io/badge/C++-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+<a href="https://twitter.com/">
+<img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x">
+</a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME)
+# 💫 About Me
+- 🌱 Currently learning **React & Data Structures**
+- 💻 Love building **Web Projects**
+- 🚀 Goal: Become **Full Stack Developer**
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn
+# 🚀 Languages and Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,react,git,github,vscode" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night"/>
+
+---
+
+# 📫 Connect With Me
+
 - Instagram
+- LinkedIn
+- Portfolio
