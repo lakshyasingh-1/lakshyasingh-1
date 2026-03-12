@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
 </a>
 
-<a href="www.linkedin.com/in/lakshya-pratap-singh-889a76208">
+<a href="www.linkedin.com/in/lakshy-asingh">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
@@ -73,7 +73,7 @@ If you like my projects and want to support me, you can donate using UPI.
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/lakshya-pratap-singh-889a76208">
+<a href="www.linkedin.com/in/lakshy-asingh8">
 <img src="https://img.shields.io/badge/LinkedIn-Lakshya%20Pratap%20Singh-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
