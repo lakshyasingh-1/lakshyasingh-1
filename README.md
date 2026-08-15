@@ -66,11 +66,6 @@ If you like my projects and want to support me, you can support me via **UPI** o
   <img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=upi://pay?pa=9005014089@ybl&pn=Lakshya%20Pratap%20Singh&cu=INR" alt="UPI QR Code" />
 </p>
 
-<p align="center">
-  <a href="https://buymeacoffee.com/lakshy_asingh">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
-</p>
 
 ---
 
