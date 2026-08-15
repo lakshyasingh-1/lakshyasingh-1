@@ -32,6 +32,7 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,bootstrap,mysql,git,github,vscode" />
 </p>
 
+
 ### 🧠 Knowledge Areas
 
 | Area | Skills |
@@ -59,10 +60,16 @@
 
 ## ❤️ Support My Work
 
-If you like my projects and want to support me, you can donate via UPI:
+If you like my projects and want to support me, you can support me via **UPI** or **Buy Me a Coffee**.
 
 <p align="center">
   <img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=upi://pay?pa=9005014089@ybl&pn=Lakshya%20Pratap%20Singh&cu=INR" alt="UPI QR Code" />
+</p>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/lakshy_asingh">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
 </p>
 
 ---
