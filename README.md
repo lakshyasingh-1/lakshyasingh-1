@@ -36,20 +36,22 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,bootstrap,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,html,css,bootstrap,spring,hibernate,maven,mysql,git,github,vscode" />
 </p>
 
 ### 🧠 Knowledge Areas
 
 | Area | Skills |
 |---|---|
-| 💻 Programming | C, C++, Java, JavaScript |
+| 💻 Programming Languages | C, C++, Java, JavaScript, Python (Learning for Data Science) |
 | 🌐 Web Development | HTML, CSS, Bootstrap |
-| 🗄️ Database | DBMS, SQL |
-| 🧩 Core CS | Data Structures & Algorithms |
+| ⚙️ Backend Development | Spring Boot, JDBC, Hibernate, Thymeleaf, Maven, Apache Tomcat |
+| 🗄️ Database | DBMS, SQL, MySQL |
+| 🧩 Core CS | Data Structures & Algorithms (DSA) |
 
----
-
+### 📚 Currently Learning
+- Backend Development with **Spring Boot** (JDBC, Hibernate, Thymeleaf, Maven, Apache Tomcat)
+- **Python for Data Science**
 ### 📊 GitHub Stats
 
 <p align="center">
